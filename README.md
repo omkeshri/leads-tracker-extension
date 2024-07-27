@@ -10,7 +10,7 @@ __This project is a simple lead tracker web application built with HTML, CSS, an
 - __Persistent Storage__: Saved URLs are stored in the browser's local storage, allowing them to persist between sessions.
 
 ## Interface
-![Leads Tracker](img/interface.png)
+![Leads Tracker](img/Interface.png)
 
 ## Installation
 1. Clone the repository: 
