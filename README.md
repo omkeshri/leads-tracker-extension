@@ -13,7 +13,7 @@ __This project is a simple lead tracker web application built with HTML, CSS, an
 ![Leads Tracker](img/Interface.png)
 
 ## Installation
-1. Clone the repository: 
+1. Clone the repository: `git clone https://github.com/omkeshri/leads-tracker-extension.git`
 2. Open the `index.html` file in your browser to use the app.
 
 ## Usage
